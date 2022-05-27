@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #083B4C;
+}
+
+.box-container{
+    margin: 48px auto;
+    width: 50%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+    margin: 10px; 
+    text-align: center;
+    line-height: 150px;   
+}
+
+
+
+
+.blue-box{
+    background-color: #1389B2;
+}
+
+.yellow-box{
+    background-color: #FFD166;
+}
+
+.red-box{
+    background-color: #F0466F;
+}
+
+.green-box{
+    background-color: #0AD6A1;
+}
